@@ -6,11 +6,20 @@
 // 2 => -2, -1, 0, 1, 2
 
 
-int n = 2;
-int i = -n;
-while(i <= n)
+// int n = 2;
+// int i = -n;
+// while(i <= n)
+// {
+//     Console.Write(i);
+//     Console.Write(" ");
+//     i ++;
+// }
+
+int n = 4;
+
+for (int i = -n; i <= n; i++)
 {
-    Console.Write(i);
-    Console.Write(" ");
-    i ++;
+    Console.Write(i + " ");
+
 }
+
