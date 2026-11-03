@@ -6,9 +6,9 @@
 // a = 9, b = -3 => да
 // a = -3, b = 9 => нет
 
-int a = -3;
-int b = 9;
-if(a % b == 0)
+int first= -3;
+int second = 9;
+if(second * second == first)
 {
     Console.Write("Да");
 }
