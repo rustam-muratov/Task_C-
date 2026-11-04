@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rusta\\OneDrive\\Desktop\\Task_C#\\Task_3\\Task_3.csproj": {}
+    "c:\\Users\\rusta\\OneDrive\\Desktop\\Task_C#\\Task_3\\Task_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rusta\\OneDrive\\Desktop\\Task_C#\\Task_3\\Task_3.csproj": {
+    "c:\\Users\\rusta\\OneDrive\\Desktop\\Task_C#\\Task_3\\Task_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rusta\\OneDrive\\Desktop\\Task_C#\\Task_3\\Task_3.csproj",
+        "projectUniqueName": "c:\\Users\\rusta\\OneDrive\\Desktop\\Task_C#\\Task_3\\Task_3.csproj",
         "projectName": "Task_3",
-        "projectPath": "C:\\Users\\rusta\\OneDrive\\Desktop\\Task_C#\\Task_3\\Task_3.csproj",
+        "projectPath": "c:\\Users\\rusta\\OneDrive\\Desktop\\Task_C#\\Task_3\\Task_3.csproj",
         "packagesPath": "C:\\Users\\rusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rusta\\OneDrive\\Desktop\\Task_C#\\Task_3\\obj\\",
+        "outputPath": "c:\\Users\\rusta\\OneDrive\\Desktop\\Task_C#\\Task_3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rusta\\AppData\\Roaming\\NuGet\\NuGet.Config"
